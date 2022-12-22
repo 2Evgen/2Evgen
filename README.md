@@ -5,7 +5,9 @@
 **Мои Контакты**:
 
  Email: evgeniya-e92@mail.ru
-
+ 
+**Мое Резюме**
+ https://docs.google.com/document/d/19iqK4zF5FKMAFtUgSDG457w00LECNaikCoqUPHTLoJM/edit?usp=sharing
  
 **Мое Портфолио**:
   
