@@ -22,8 +22,13 @@ https://github.com/2Evgen/QADiplom
 
 https://docs.google.com/spreadsheets/d/1-7AGyg1Dg5hCvBI8p_G2Arr9Z2tONY2JwPsFyaYQWlg/edit?usp=sharing
 
+Изучен Git -система контроля версий 
+![пр](https://user-images.githubusercontent.com/107884351/209114238-4f1c3c34-b19b-465e-a3b1-a6cc7faa6138.png)
 
-Пройден курс по языку програмирования "Python" 
+
+Пройден курс по языку програмирования "Python" и "Java"
+![Свидетельство1](https://user-images.githubusercontent.com/107884351/209114570-d85302f7-667a-42ac-ad02-840683c9d317.png)
+
 
 
 Пройден курс по HTML
