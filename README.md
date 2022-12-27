@@ -28,7 +28,7 @@
 
 Изучен Git -система контроля версий 
 
-https://github.com/2Evgen/Portfolio/blob/main/document/Git.png
+![Git 1](https://user-images.githubusercontent.com/107884351/209645736-26ea47bb-9ad3-4d0c-afcc-6891288e8355.png)
 
 
 Пройден курс по языку програмирования "Python" и "Java"
