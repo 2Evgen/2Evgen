@@ -33,7 +33,7 @@
 
 Изучен Git -система контроля версий 
 
-![пр](https://user-images.githubusercontent.com/107884351/209114238-4f1c3c34-b19b-465e-a3b1-a6cc7faa6138.png)
+![Git 1](https://user-images.githubusercontent.com/107884351/209645736-26ea47bb-9ad3-4d0c-afcc-6891288e8355.png)
 
 
 Пройден курс по языку програмирования "Python" и "Java"
