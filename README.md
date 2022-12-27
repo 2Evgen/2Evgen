@@ -1,16 +1,21 @@
-**Информация обо мне**:
+﻿#**Информация обо мне**:
  
 Приятно познакомится, я Евегния Курсенко, начинающий тестировщик ПО!
 
-**Мои Контакты**:
+#**Мои Контакты**:
 
  Email: evgeniya-e92@mail.ru
  
-**Мое Резюме**
- https://docs.google.com/document/d/19iqK4zF5FKMAFtUgSDG457w00LECNaikCoqUPHTLoJM/edit?usp=sharing
- 
+#**Мое Резюме**
+ [мое резюме](https://docs.google.com/document/d/19iqK4zF5FKMAFtUgSDG457w00LECNaikCoqUPHTLoJM/edit?usp=sharing)
 
-  
+ #**Портфолио**
+**Учебные проекты на курсах Нетологии**
+
+1. [Дипломная работа по курсу "Автоматизация тестирования"]
+(https://user-images.githubusercontent.com/107884351/209113745-53cb1c24-2780-45df-9642-e66c369c1fb1.png)
+
+
 **Выполненные проекты во время обучения**:
  
 Дипломная работа по курсу "Автоматизация тестирования"
