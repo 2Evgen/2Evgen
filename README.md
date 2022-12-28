@@ -65,7 +65,7 @@
 
 - [Git — система контроля версий](document/Git.png)
 
-- [Python-разработка для начинающих]()
+- [Python-разработка для начинающих](https://github.com/2Evgen/2Evgen/blob/main/document/Screenshot.png)
 
 - [Компьютерная грамотность](https://github.com/2Evgen/Portfolio/blob/main/document/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.png)
 
