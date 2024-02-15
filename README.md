@@ -73,7 +73,5 @@
 
 - [Сертификат A2 Elementary](https://github.com/2Evgen/2Evgen/blob/main/document/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20A2%20Elementary%20.jpg)
 
-- [Первые шаги в JavaScript]()
-
 - [JavaScript первые шаги](https://github.com/2Evgen/2Evgen/blob/main/document/JavaScript.png)
 
