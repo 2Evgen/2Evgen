@@ -46,6 +46,8 @@
 
 # **Сертификаты**
 
+- [Стажировка в проекте Джуны](https://github.com/2Evgen/2Evgen/commit/ee16c456e5871385ff5936791d38cafa809a8538)
+
 - [Тестировщик ПО](https://github.com/2Evgen/Portfolio/blob/main/document/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D0%9F%D0%9E.png)
 
 - [Ручное тестирование вебприложений](https://github.com/2Evgen/Portfolio/blob/main/document/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png)
@@ -58,9 +60,6 @@
 
 - [Дипломный блок](https://github.com/2Evgen/Portfolio/blob/main/document/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%BB%D0%BE%D0%BA.png)
 
-
-- [HTML-верстка: с нуля до первого макета]()
-
 - [Git — система контроля версий](document/Git.png)
 
 - [Python-разработка для начинающих](https://github.com/2Evgen/2Evgen/blob/main/document/Screenshot.png)
@@ -69,7 +68,7 @@
 
 - [Английский для программистов](https://github.com/2Evgen/Portfolio/blob/main/document/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2.png)
 
-- [Вселенная тестирования, или как стать тестировщиком]()
+- [Вселенная тестирования, или как стать тестировщиком](https://github.com/2Evgen/2Evgen/blob/main/document/stepik-certificate%20(2)_page-0001.jpg)
 
 - [Сертификат A2 Elementary](https://github.com/2Evgen/2Evgen/blob/main/document/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20A2%20Elementary%20.jpg)
 
